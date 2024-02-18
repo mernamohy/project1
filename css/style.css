@@ -1,0 +1,16 @@
+.crousel-caption{
+top: 40%;
+}
+.form-back{
+    background-color: rgba(242, 238, 232, 0.842);
+}
+.form-control:focus-visible{
+    background: transparent;
+}
+.modal-title , .modal-body{
+    margin: auto;
+    background-color: rgba(214, 214, 240, 0.651);
+}
+.demo{
+    font-family: "Roboto Slab", serif;
+}
